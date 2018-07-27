@@ -11,11 +11,10 @@ attr_reader
   
     def cobble
       puts "Your shoe is as good as new!"
+            @shoe.condition = "new"
     end
     
-    def new
-      @shoe.condition = "new"
-    end
+
 end 
 adidas = Shoe.new("adidas")
 adidas.color = "red"
