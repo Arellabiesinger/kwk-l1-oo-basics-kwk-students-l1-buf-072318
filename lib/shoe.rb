@@ -2,16 +2,19 @@
 
 class Shoe 
   
-attr_accessor :brand, :color
+attr_accessor :brand, :color, :size
 attr_reader 
 
   def initialize(brand)
   @brand = brand
   end
+  
   def shoe_color(color)
   @color = color
   end 
-  
+  def shoe_size(size)
+@size = size
+  end
 end
 
 adidas = Shoe.new("adidas")
