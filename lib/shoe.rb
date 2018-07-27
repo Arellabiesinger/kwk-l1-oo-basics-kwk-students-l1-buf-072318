@@ -9,7 +9,7 @@ attr_reader
   @brand = brand
   end
   def coobble
-  puts""
+  puts "the shoe has been repaired"
   end
 end 
 adidas = Shoe.new("adidas")
