@@ -19,7 +19,7 @@ end
 
 adidas = Shoe.new("adidas")
 adidas.color = "red"
-
+adidas.size = "9.5"
 
 
 
