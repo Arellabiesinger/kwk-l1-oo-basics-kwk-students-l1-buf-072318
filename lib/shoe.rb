@@ -8,7 +8,7 @@ attr_reader
   def initialize(brand)
   @brand = brand
   end
-  def coobble
+  def cobble
   puts "the shoe has been repaired"
   end
 end 
