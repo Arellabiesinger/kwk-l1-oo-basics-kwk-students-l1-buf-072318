@@ -15,6 +15,9 @@ attr_reader
   def shoe_size(size)
 @size = size
   end
+    def material(size)
+@size = size
+  end
 end
 
 adidas = Shoe.new("adidas")
