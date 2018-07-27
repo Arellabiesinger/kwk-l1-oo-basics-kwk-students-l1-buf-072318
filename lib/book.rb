@@ -14,7 +14,7 @@ def turn_page
 end
 end 
 
-book.new("The Great World Spins")
+Book.new("The Great World Spins")
 
 
 
