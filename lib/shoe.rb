@@ -9,7 +9,7 @@ attr_reader
   @brand = brand
   end
   def cobble
-  puts "the shoe has been repaired"
+  puts "Your shoe is as good as new!"
   end
 end 
 adidas = Shoe.new("adidas")
