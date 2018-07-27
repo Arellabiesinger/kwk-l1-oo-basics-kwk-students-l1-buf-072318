@@ -6,7 +6,7 @@ attr_accessor :brand
 attr_reader 
 
   def initialize
-  
+  @brand = brand
   end
 
 
