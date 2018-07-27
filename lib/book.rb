@@ -14,7 +14,7 @@ def turn_page
 end
 end 
 
-Book.new("The Great World Spins")
+Book.new("The Great Gatsby")
 
-
+"The Great Gatsby".author
 
