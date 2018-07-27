@@ -3,11 +3,11 @@
 
 class Book
   attr_reader :title 
-  attr_accessor :auther
+  attr_accessor :auther, :page_count
   
   def initialize(title)
 @title = title
-# @auther = auther
+
 
 end 
   end 
