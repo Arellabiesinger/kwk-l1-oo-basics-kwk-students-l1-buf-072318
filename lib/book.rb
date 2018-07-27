@@ -18,5 +18,10 @@ the_great_gatsby = Book.new("The Great Gatsby")
 
 the_great_gatsby.author = "F Scott Fitzgerald"
 the_great_gatsby.genre = "fiction"
+bravenewworld = Book.new("bravenewworld")
+puts the_great_gatsby.title
+puts bravenewworld.title
 
-puts the_great_gatsby
+
+
+
