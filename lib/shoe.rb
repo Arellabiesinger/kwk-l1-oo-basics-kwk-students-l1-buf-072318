@@ -18,6 +18,7 @@ adidas.color = "red"
 adidas.size = "9.5"
 adidas.material = "suede"
 adidas.condition = "tattered"
- 
+   @shoe.condition = "new"
+   
 
 
