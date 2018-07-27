@@ -1,7 +1,8 @@
 # Make your shoe class here!
 
 class Shoe 
-attr_accessible :brand
+  
+attr_accessor :brand
 attr_reader 
 
 
